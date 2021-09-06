@@ -2,6 +2,10 @@
     width: 25px; height: 25px;
 }
 
+.ent{
+    background-color: white;
+}
+
 aside{
     float:right;
     border: white solid 5px;
@@ -9,8 +13,8 @@ aside{
 }
 
 body{
-    background-color: rgb(121, 73, 73);
+    background-color:lightgray;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
+    color:black;
     font-size: small;
 }
