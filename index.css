@@ -1,0 +1,15 @@
+.info{
+    width: 25px; height: 25px;
+}
+
+aside{
+    float:right;
+    border: white solid 5px;
+    padding: auto;
+}
+
+body{
+    background-color: rgb(82, 82, 126);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
